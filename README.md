@@ -3,3 +3,4 @@
 ##The Progressive JavaScript Framework
 
 * [Vue.js](http://vuejs.org/)
+* [Firebase](https://firebase.google.com/)
